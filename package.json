@@ -1,0 +1,22 @@
+{
+  "name": "ramda-hell",
+  "version": "1.0.0",
+  "description": "### 특징",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.1.8",
+    "ramda": "^0.27.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.3",
+    "ts-node": "^10.4.0",
+    "@types/node": "^16.11.12",
+    "@types/ramda": "^0.27.60",
+    "@types/chance": "^1.1.3"
+  }
+}
